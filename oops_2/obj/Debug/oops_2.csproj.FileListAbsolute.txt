@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New folder\oops_2\oops_2\bin\Debug\oops_2.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New folder\oops_2\oops_2\bin\Debug\oops_2.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New folder\oops_2\oops_2\obj\Debug\oops_2.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New folder\oops_2\oops_2\obj\Debug\oops_2.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New folder\oops_2\oops_2\obj\Debug\oops_2.csprojResolveAssemblyReference.cache
